@@ -1,0 +1,166 @@
+Number,Name,Type1,Type2,Total,HP,Attack,Defense,SpecialAtk,SpecialDef,Speed,Generation,Legendary
+494,Victini,Psychic,Fire,600,100,100,100,100,100,100,5,True
+495,Snivy,Grass,,308,45,45,55,45,55,63,5,False
+496,Servine,Grass,,413,60,60,75,60,75,83,5,False
+497,Serperior,Grass,,528,75,75,95,75,95,113,5,False
+498,Tepig,Fire,,308,65,63,45,45,45,45,5,False
+499,Pignite,Fire,Fighting,418,90,93,55,70,55,55,5,False
+500,Emboar,Fire,Fighting,528,110,123,65,100,65,65,5,False
+501,Oshawott,Water,,308,55,55,45,63,45,45,5,False
+502,Dewott,Water,,413,75,75,60,83,60,60,5,False
+503,Samurott,Water,,528,95,100,85,108,70,70,5,False
+504,Patrat,Normal,,255,45,55,39,35,39,42,5,False
+505,Watchog,Normal,,420,60,85,69,60,69,77,5,False
+506,Lillipup,Normal,,275,45,60,45,25,45,55,5,False
+507,Herdier,Normal,,370,65,80,65,35,65,60,5,False
+508,Stoutland,Normal,,500,85,110,90,45,90,80,5,False
+509,Purrloin,Dark,,281,41,50,37,50,37,66,5,False
+510,Liepard,Dark,,446,64,88,50,88,50,106,5,False
+511,Pansage,Grass,,316,50,53,48,53,48,64,5,False
+512,Simisage,Grass,,498,75,98,63,98,63,101,5,False
+513,Pansear,Fire,,316,50,53,48,53,48,64,5,False
+514,Simisear,Fire,,498,75,98,63,98,63,101,5,False
+515,Panpour,Water,,316,50,53,48,53,48,64,5,False
+516,Simipour,Water,,498,75,98,63,98,63,101,5,False
+517,Munna,Psychic,,292,76,25,45,67,55,24,5,False
+518,Musharna,Psychic,,487,116,55,85,107,95,29,5,False
+519,Pidove,Normal,Flying,264,50,55,50,36,30,43,5,False
+520,Tranquill,Normal,Flying,358,62,77,62,50,42,65,5,False
+521,Unfezant,Normal,Flying,488,80,115,80,65,55,93,5,False
+522,Blitzle,Electric,,295,45,60,32,50,32,76,5,False
+523,Zebstrika,Electric,,497,75,100,63,80,63,116,5,False
+524,Roggenrola,Rock,,280,55,75,85,25,25,15,5,False
+525,Boldore,Rock,,390,70,105,105,50,40,20,5,False
+526,Gigalith,Rock,,515,85,135,130,60,80,25,5,False
+527,Woobat,Psychic,Flying,313,55,45,43,55,43,72,5,False
+528,Swoobat,Psychic,Flying,425,67,57,55,77,55,114,5,False
+529,Drilbur,Ground,,328,60,85,40,30,45,68,5,False
+530,Excadrill,Ground,Steel,508,110,135,60,50,65,88,5,False
+531,Audino,Normal,,445,103,60,86,60,86,50,5,False
+531,AudinoMega Audino,Normal,Fairy,545,103,60,126,80,126,50,5,False
+532,Timburr,Fighting,,305,75,80,55,25,35,35,5,False
+533,Gurdurr,Fighting,,405,85,105,85,40,50,40,5,False
+534,Conkeldurr,Fighting,,505,105,140,95,55,65,45,5,False
+535,Tympole,Water,,294,50,50,40,50,40,64,5,False
+536,Palpitoad,Water,Ground,384,75,65,55,65,55,69,5,False
+537,Seismitoad,Water,Ground,509,105,95,75,85,75,74,5,False
+538,Throh,Fighting,,465,120,100,85,30,85,45,5,False
+539,Sawk,Fighting,,465,75,125,75,30,75,85,5,False
+540,Sewaddle,Bug,Grass,310,45,53,70,40,60,42,5,False
+541,Swadloon,Bug,Grass,380,55,63,90,50,80,42,5,False
+542,Leavanny,Bug,Grass,500,75,103,80,70,80,92,5,False
+543,Venipede,Bug,Poison,260,30,45,59,30,39,57,5,False
+544,Whirlipede,Bug,Poison,360,40,55,99,40,79,47,5,False
+545,Scolipede,Bug,Poison,485,60,100,89,55,69,112,5,False
+546,Cottonee,Grass,Fairy,280,40,27,60,37,50,66,5,False
+547,Whimsicott,Grass,Fairy,480,60,67,85,77,75,116,5,False
+548,Petilil,Grass,,280,45,35,50,70,50,30,5,False
+549,Lilligant,Grass,,480,70,60,75,110,75,90,5,False
+550,Basculin,Water,,460,70,92,65,80,55,98,5,False
+551,Sandile,Ground,Dark,292,50,72,35,35,35,65,5,False
+552,Krokorok,Ground,Dark,351,60,82,45,45,45,74,5,False
+553,Krookodile,Ground,Dark,519,95,117,80,65,70,92,5,False
+554,Darumaka,Fire,,315,70,90,45,15,45,50,5,False
+555,DarmanitanStandard Mode,Fire,,480,105,140,55,30,55,95,5,False
+555,DarmanitanZen Mode,Fire,Psychic,540,105,30,105,140,105,55,5,False
+556,Maractus,Grass,,461,75,86,67,106,67,60,5,False
+557,Dwebble,Bug,Rock,325,50,65,85,35,35,55,5,False
+558,Crustle,Bug,Rock,475,70,95,125,65,75,45,5,False
+559,Scraggy,Dark,Fighting,348,50,75,70,35,70,48,5,False
+560,Scrafty,Dark,Fighting,488,65,90,115,45,115,58,5,False
+561,Sigilyph,Psychic,Flying,490,72,58,80,103,80,97,5,False
+562,Yamask,Ghost,,303,38,30,85,55,65,30,5,False
+563,Cofagrigus,Ghost,,483,58,50,145,95,105,30,5,False
+564,Tirtouga,Water,Rock,355,54,78,103,53,45,22,5,False
+565,Carracosta,Water,Rock,495,74,108,133,83,65,32,5,False
+566,Archen,Rock,Flying,401,55,112,45,74,45,70,5,False
+567,Archeops,Rock,Flying,567,75,140,65,112,65,110,5,False
+568,Trubbish,Poison,,329,50,50,62,40,62,65,5,False
+569,Garbodor,Poison,,474,80,95,82,60,82,75,5,False
+570,Zorua,Dark,,330,40,65,40,80,40,65,5,False
+571,Zoroark,Dark,,510,60,105,60,120,60,105,5,False
+572,Minccino,Normal,,300,55,50,40,40,40,75,5,False
+573,Cinccino,Normal,,470,75,95,60,65,60,115,5,False
+574,Gothita,Psychic,,290,45,30,50,55,65,45,5,False
+575,Gothorita,Psychic,,390,60,45,70,75,85,55,5,False
+576,Gothitelle,Psychic,,490,70,55,95,95,110,65,5,False
+577,Solosis,Psychic,,290,45,30,40,105,50,20,5,False
+578,Duosion,Psychic,,370,65,40,50,125,60,30,5,False
+579,Reuniclus,Psychic,,490,110,65,75,125,85,30,5,False
+580,Ducklett,Water,Flying,305,62,44,50,44,50,55,5,False
+581,Swanna,Water,Flying,473,75,87,63,87,63,98,5,False
+582,Vanillite,Ice,,305,36,50,50,65,60,44,5,False
+583,Vanillish,Ice,,395,51,65,65,80,75,59,5,False
+584,Vanilluxe,Ice,,535,71,95,85,110,95,79,5,False
+585,Deerling,Normal,Grass,335,60,60,50,40,50,75,5,False
+586,Sawsbuck,Normal,Grass,475,80,100,70,60,70,95,5,False
+587,Emolga,Electric,Flying,428,55,75,60,75,60,103,5,False
+588,Karrablast,Bug,,315,50,75,45,40,45,60,5,False
+589,Escavalier,Bug,Steel,495,70,135,105,60,105,20,5,False
+590,Foongus,Grass,Poison,294,69,55,45,55,55,15,5,False
+591,Amoonguss,Grass,Poison,464,114,85,70,85,80,30,5,False
+592,Frillish,Water,Ghost,335,55,40,50,65,85,40,5,False
+593,Jellicent,Water,Ghost,480,100,60,70,85,105,60,5,False
+594,Alomomola,Water,,470,165,75,80,40,45,65,5,False
+595,Joltik,Bug,Electric,319,50,47,50,57,50,65,5,False
+596,Galvantula,Bug,Electric,472,70,77,60,97,60,108,5,False
+597,Ferroseed,Grass,Steel,305,44,50,91,24,86,10,5,False
+598,Ferrothorn,Grass,Steel,489,74,94,131,54,116,20,5,False
+599,Klink,Steel,,300,40,55,70,45,60,30,5,False
+600,Klang,Steel,,440,60,80,95,70,85,50,5,False
+601,Klinklang,Steel,,520,60,100,115,70,85,90,5,False
+602,Tynamo,Electric,,275,35,55,40,45,40,60,5,False
+603,Eelektrik,Electric,,405,65,85,70,75,70,40,5,False
+604,Eelektross,Electric,,515,85,115,80,105,80,50,5,False
+605,Elgyem,Psychic,,335,55,55,55,85,55,30,5,False
+606,Beheeyem,Psychic,,485,75,75,75,125,95,40,5,False
+607,Litwick,Ghost,Fire,275,50,30,55,65,55,20,5,False
+608,Lampent,Ghost,Fire,370,60,40,60,95,60,55,5,False
+609,Chandelure,Ghost,Fire,520,60,55,90,145,90,80,5,False
+610,Axew,Dragon,,320,46,87,60,30,40,57,5,False
+611,Fraxure,Dragon,,410,66,117,70,40,50,67,5,False
+612,Haxorus,Dragon,,540,76,147,90,60,70,97,5,False
+613,Cubchoo,Ice,,305,55,70,40,60,40,40,5,False
+614,Beartic,Ice,,485,95,110,80,70,80,50,5,False
+615,Cryogonal,Ice,,485,70,50,30,95,135,105,5,False
+616,Shelmet,Bug,,305,50,40,85,40,65,25,5,False
+617,Accelgor,Bug,,495,80,70,40,100,60,145,5,False
+618,Stunfisk,Ground,Electric,471,109,66,84,81,99,32,5,False
+619,Mienfoo,Fighting,,350,45,85,50,55,50,65,5,False
+620,Mienshao,Fighting,,510,65,125,60,95,60,105,5,False
+621,Druddigon,Dragon,,485,77,120,90,60,90,48,5,False
+622,Golett,Ground,Ghost,303,59,74,50,35,50,35,5,False
+623,Golurk,Ground,Ghost,483,89,124,80,55,80,55,5,False
+624,Pawniard,Dark,Steel,340,45,85,70,40,40,60,5,False
+625,Bisharp,Dark,Steel,490,65,125,100,60,70,70,5,False
+626,Bouffalant,Normal,,490,95,110,95,40,95,55,5,False
+627,Rufflet,Normal,Flying,350,70,83,50,37,50,60,5,False
+628,Braviary,Normal,Flying,510,100,123,75,57,75,80,5,False
+629,Vullaby,Dark,Flying,370,70,55,75,45,65,60,5,False
+630,Mandibuzz,Dark,Flying,510,110,65,105,55,95,80,5,False
+631,Heatmor,Fire,,484,85,97,66,105,66,65,5,False
+632,Durant,Bug,Steel,484,58,109,112,48,48,109,5,False
+633,Deino,Dark,Dragon,300,52,65,50,45,50,38,5,False
+634,Zweilous,Dark,Dragon,420,72,85,70,65,70,58,5,False
+635,Hydreigon,Dark,Dragon,600,92,105,90,125,90,98,5,False
+636,Larvesta,Bug,Fire,360,55,85,55,50,55,60,5,False
+637,Volcarona,Bug,Fire,550,85,60,65,135,105,100,5,False
+638,Cobalion,Steel,Fighting,580,91,90,129,90,72,108,5,True
+639,Terrakion,Rock,Fighting,580,91,129,90,72,90,108,5,True
+640,Virizion,Grass,Fighting,580,91,90,72,90,129,108,5,True
+641,TornadusIncarnate Forme,Flying,,580,79,115,70,125,80,111,5,True
+641,TornadusTherian Forme,Flying,,580,79,100,80,110,90,121,5,True
+642,ThundurusIncarnate Forme,Electric,Flying,580,79,115,70,125,80,111,5,True
+642,ThundurusTherian Forme,Electric,Flying,580,79,105,70,145,80,101,5,True
+643,Reshiram,Dragon,Fire,680,100,120,100,150,120,90,5,True
+644,Zekrom,Dragon,Electric,680,100,150,120,120,100,90,5,True
+645,LandorusIncarnate Forme,Ground,Flying,600,89,125,90,115,80,101,5,True
+645,LandorusTherian Forme,Ground,Flying,600,89,145,90,105,80,91,5,True
+646,Kyurem,Dragon,Ice,660,125,130,90,130,90,95,5,True
+646,KyuremBlack Kyurem,Dragon,Ice,700,125,170,100,120,90,95,5,True
+646,KyuremWhite Kyurem,Dragon,Ice,700,125,120,90,170,100,95,5,True
+647,KeldeoOrdinary Forme,Water,Fighting,580,91,72,90,129,90,108,5,False
+647,KeldeoResolute Forme,Water,Fighting,580,91,72,90,129,90,108,5,False
+648,MeloettaAria Forme,Normal,Psychic,600,100,77,77,128,128,90,5,False
+648,MeloettaPirouette Forme,Normal,Fighting,600,100,128,90,77,77,128,5,False
+649,Genesect,Bug,Steel,600,71,120,95,120,95,99,5,False
