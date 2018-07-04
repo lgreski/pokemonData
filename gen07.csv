@@ -1,0 +1,95 @@
+"Number","Name","Type1","Type2","Total","HP","Attack","Defense","SpecialAtk","SpecialDef","Speed","Generation","Legendary"
+722,"Rowlet","Grass","Flying",320,68,55,55,50,50,42,7,FALSE
+723,"Dartrix","Grass","Flying",420,78,75,75,70,70,52,7,FALSE
+724,"Decidueye","Grass","Ghost",530,78,107,75,100,100,70,7,FALSE
+725,"Litten","Fire",NA,320,45,65,40,60,40,70,7,FALSE
+726,"Torracat","Fire",NA,420,65,85,50,80,50,90,7,FALSE
+727,"Inceroar","Fire",NA,530,95,115,90,80,90,60,7,FALSE
+728,"Popolio","Water",NA,320,50,54,54,66,56,40,7,FALSE
+729,"Brionne","Water",NA,420,60,69,69,91,81,50,7,FALSE
+730,"Primarina","Water",NA,530,80,74,74,126,116,60,7,FALSE
+731,"Pikipek","Normal","Flying",265,35,75,30,30,30,65,7,FALSE
+732,"Trumbeak","Normal","Flying",355,55,85,50,40,50,75,7,FALSE
+733,"Toucannon","Normal","Flying",485,80,120,75,75,75,60,7,FALSE
+734,"Yungoos","Normal",NA,253,48,70,30,30,30,45,7,FALSE
+735,"Gumshoos","Normal",NA,418,88,110,60,55,60,45,7,FALSE
+736,"Grubbin","Bug",NA,300,47,62,45,55,45,46,7,FALSE
+737,"Charjabug","Bug","Electric",400,57,82,95,55,75,36,7,FALSE
+738,"Vikavolt","Bug","Electric",500,77,70,90,145,75,43,7,FALSE
+739,"Crabrawler","Fighting",NA,338,47,82,57,42,47,63,7,FALSE
+740,"Crabominable","Fighting","Ice",478,97,132,77,62,67,43,7,FALSE
+741,"OricorioBaile Style","Fire","Flying",476,75,70,70,98,70,93,7,FALSE
+741,"OricorioPom-Pom Style","Electric","Flying",476,75,70,70,98,70,93,7,FALSE
+741,"OricorioPa'u Style","Psychic","Flying",476,75,70,70,98,70,93,7,FALSE
+742,"Cutiefly","Bug","Fairy",304,40,45,40,55,40,84,7,FALSE
+743,"Riombee","Bug","Fairy",464,60,55,60,95,70,124,7,FALSE
+744,"Rockruff","Rock",NA,280,45,65,40,30,40,60,7,FALSE
+745,"LycanrocMidday Form","Rock",NA,487,75,115,65,55,65,112,7,FALSE
+745,"LycanrocMidnight Form","Rock",NA,487,85,115,75,55,75,82,7,FALSE
+746,"WishiwashiSolo Form","Water",NA,175,45,20,20,25,25,40,7,FALSE
+746,"WishiwashiSchool Form","Water",NA,620,45,140,130,140,135,30,7,FALSE
+747,"Mareanie","Poison","Water",305,50,53,62,43,52,45,7,FALSE
+748,"Toxapex","Poison","Water",495,50,63,152,53,142,35,7,FALSE
+749,"Mudbray","Ground",NA,385,70,100,70,45,55,45,7,FALSE
+750,"Mudsdale","Ground",NA,500,100,125,100,55,85,35,7,FALSE
+751,"Dewpider","Water","Bug",269,38,40,52,40,72,27,7,FALSE
+752,"Araquanid","Water","Bug",454,68,70,92,50,132,42,7,FALSE
+753,"Fomantis","Grass",NA,250,40,55,35,50,35,35,7,FALSE
+754,"Lurantis","Grass",NA,480,70,105,90,80,90,45,7,FALSE
+755,"Morelull","Grass","Fairy",285,40,35,55,65,75,15,7,FALSE
+756,"Shiinotic","Grass","Fairy",405,60,45,80,90,100,30,7,FALSE
+757,"Salandit","Poison","Fire",320,48,44,40,71,40,77,7,FALSE
+758,"Salazzle","Poison","Fire",480,68,64,60,111,60,117,7,FALSE
+759,"Stufful","Normal","Fighting",340,70,75,50,45,50,50,7,FALSE
+760,"Bewear","Normal","Fighting",500,120,125,80,55,60,60,7,FALSE
+761,"Bounsweet","Grass",NA,210,42,30,38,30,38,32,7,FALSE
+762,"Steenee","Grass",NA,290,52,40,48,40,48,62,7,FALSE
+763,"Tsareena","Grass",NA,510,72,120,98,50,98,72,7,FALSE
+764,"Comfey","Fairy",NA,485,51,52,90,82,110,100,7,FALSE
+765,"Oranguru","Normal","Psychic",490,90,60,80,90,110,60,7,FALSE
+766,"Passimian","Fighting",NA,490,100,120,90,40,60,80,7,FALSE
+767,"Wimpod","Bug","Water",230,25,35,40,20,30,80,7,FALSE
+768,"Golisopod","Bug","Water",530,75,125,140,60,90,40,7,FALSE
+769,"Sandygast","Ghost","Ground",320,55,55,80,70,45,15,7,FALSE
+770,"Pallosand","Ghost","Ground",480,85,75,110,100,75,35,7,FALSE
+771,"Pyukumuku","Water",NA,410,55,60,130,30,130,5,7,FALSE
+772,"Type:Null","Normal",NA,534,95,95,95,95,95,59,7,TRUE
+773,"Silvally","Normal",NA,570,95,95,95,95,95,95,7,TRUE
+774,"MiniorMeteor Form","Rock","Flying",440,60,60,100,60,100,60,7,FALSE
+774,"MinorCore Form","Rock","Flying",500,60,100,60,100,60,120,7,FALSE
+775,"Komala","Normal",NA,480,65,115,65,75,95,65,7,FALSE
+776,"Turtonator","Fire","Dragon",485,60,78,135,91,85,36,7,FALSE
+777,"Togedemaru","Electric","Steel",435,65,98,63,40,73,96,7,FALSE
+778,"Mimikyu","Ghost","Fairy",476,55,90,80,50,105,96,7,FALSE
+779,"Bruxish","Water","Psychic",475,68,105,70,70,70,92,7,FALSE
+780,"Drampa","Normal","Dragon",485,78,60,85,135,91,36,7,FALSE
+781,"Dhelmise","Ghost","Grass",517,70,131,100,86,90,40,7,FALSE
+782,"Jangmo-o","Dragon",NA,300,45,55,65,45,45,45,7,FALSE
+783,"Hakamo-o","Dragon","Fighting",420,55,75,90,65,70,65,7,FALSE
+784,"Kommo-o","Dragon","Fighting",600,75,110,125,100,105,85,7,FALSE
+785,"Tapu Koko","Electric","Fairy",570,70,115,85,95,75,130,7,TRUE
+786,"Tapu Lele","Psychic","Fairy",570,70,85,75,130,115,95,7,TRUE
+787,"Tapu Bulu","Grass","Fairy",570,70,130,115,85,95,75,7,TRUE
+788,"Tapu Fini","Water","Fairy",570,70,75,115,95,130,85,7,TRUE
+789,"Cosmog","Psychic",NA,200,43,29,31,29,31,37,7,TRUE
+790,"Cosmoem","Psychic",NA,400,43,29,131,29,131,37,7,TRUE
+791,"Solgaleo","Psychic","Steel",680,137,137,107,113,89,97,7,TRUE
+792,"Lunala","Psychic","Ghost",680,137,113,89,137,107,97,7,TRUE
+793,"Nihilego","Rock","Poison",570,109,53,47,127,131,103,7,FALSE
+794,"Buzzwole","Bug","Fighting",570,107,139,139,53,53,79,7,FALSE
+795,"Pheromosa","Bug","Fighting",570,71,137,37,137,37,151,7,FALSE
+796,"Xuriktree","Electric",NA,570,83,89,71,173,71,83,7,FALSE
+797,"Celesteela","Steel","Flying",570,97,101,103,107,101,61,7,FALSE
+798,"Kartana","Grass","Steel",570,59,181,131,59,31,109,7,FALSE
+799,"Guzzlord","Dark","Dragon",570,223,101,53,97,53,43,7,FALSE
+800,"Necrozma","Psychic",NA,600,97,107,101,127,89,79,7,TRUE
+800,"NecrozmaDusk Mane","Psychic","Steel",680,97,157,127,113,109,77,7,TRUE
+800,"NecrozmaDawn Wings","Psychic","Ghost",680,97,113,109,157,127,77,7,TRUE
+800,"NecrozmaUltra","Psychic","Dragon",754,97,167,97,167,97,129,7,TRUE
+801,"Magearna","Steel","Fairy",600,80,95,115,130,115,65,7,FALSE
+802,"Marshadow","Fighting","Ghost",600,90,125,80,90,90,125,7,FALSE
+803,"Poipole","Poison",NA,420,67,73,67,73,67,73,7,FALSE
+804,"Naganadel","Poison","Dragon",540,73,73,73,127,73,121,7,FALSE
+805,"Stakataka","Rock","Steel",570,61,131,211,53,101,13,7,FALSE
+806,"Blacephalon","Fire","Ghost",570,53,127,53,151,79,107,7,FALSE
+807,"Zenaora","Electric",NA,600,88,112,75,102,80,143,7,FALSE
