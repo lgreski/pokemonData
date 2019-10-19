@@ -1,8 +1,14 @@
 # read and write updated Pokemon data
-# 
+#
 library(readxl)
 thePokemon <- read_xlsx("Pokemon.xlsx")
-write.csv(thePokemon,file="Pokemon.csv",row.names=FALSE)
-# extract gen07 and write file
-gen07 <- thePokemon[thePokemon$Generation == 7,]
-write.csv(gen07,file="gen07.csv",row.names=FALSE)
+write.csv(thePokemon, file = "Pokemon.csv", row.names = FALSE)
+
+i <- 1
+
+while (i < 8) {
+    write.csv(
+    thePokemon[thePokemon$Generation == i,],
+    file = paste(paste("gen0", i, sep = ""), ".csv", sep = ""), row.names = FALSE)
+    i = i + 1
+}
