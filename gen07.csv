@@ -18,16 +18,16 @@
 738,"Vikavolt","Bug","Electric",500,77,70,90,145,75,43,7,FALSE
 739,"Crabrawler","Fighting",NA,338,47,82,57,42,47,63,7,FALSE
 740,"Crabominable","Fighting","Ice",478,97,132,77,62,67,43,7,FALSE
-741,"OricorioBaile Style","Fire","Flying",476,75,70,70,98,70,93,7,FALSE
-741,"OricorioPom-Pom Style","Electric","Flying",476,75,70,70,98,70,93,7,FALSE
-741,"OricorioPa'u Style","Psychic","Flying",476,75,70,70,98,70,93,7,FALSE
+741,"Oricorio Baile Style","Fire","Flying",476,75,70,70,98,70,93,7,FALSE
+741,"Oricorio Pom-Pom Style","Electric","Flying",476,75,70,70,98,70,93,7,FALSE
+741,"Oricorio Pa'u Style","Psychic","Flying",476,75,70,70,98,70,93,7,FALSE
 742,"Cutiefly","Bug","Fairy",304,40,45,40,55,40,84,7,FALSE
 743,"Riombee","Bug","Fairy",464,60,55,60,95,70,124,7,FALSE
 744,"Rockruff","Rock",NA,280,45,65,40,30,40,60,7,FALSE
-745,"LycanrocMidday Form","Rock",NA,487,75,115,65,55,65,112,7,FALSE
-745,"LycanrocMidnight Form","Rock",NA,487,85,115,75,55,75,82,7,FALSE
-746,"WishiwashiSolo Form","Water",NA,175,45,20,20,25,25,40,7,FALSE
-746,"WishiwashiSchool Form","Water",NA,620,45,140,130,140,135,30,7,FALSE
+745,"Lycanroc Midday Form","Rock",NA,487,75,115,65,55,65,112,7,FALSE
+745,"Lycanroc Midnight Form","Rock",NA,487,85,115,75,55,75,82,7,FALSE
+746,"Wishiwashi Solo Form","Water",NA,175,45,20,20,25,25,40,7,FALSE
+746,"Wishiwashi School Form","Water",NA,620,45,140,130,140,135,30,7,FALSE
 747,"Mareanie","Poison","Water",305,50,53,62,43,52,45,7,FALSE
 748,"Toxapex","Poison","Water",495,50,63,152,53,142,35,7,FALSE
 749,"Mudbray","Ground",NA,385,70,100,70,45,55,45,7,FALSE
@@ -55,8 +55,8 @@
 771,"Pyukumuku","Water",NA,410,55,60,130,30,130,5,7,FALSE
 772,"Type:Null","Normal",NA,534,95,95,95,95,95,59,7,TRUE
 773,"Silvally","Normal",NA,570,95,95,95,95,95,95,7,TRUE
-774,"MiniorMeteor Form","Rock","Flying",440,60,60,100,60,100,60,7,FALSE
-774,"MinorCore Form","Rock","Flying",500,60,100,60,100,60,120,7,FALSE
+774,"Minior Meteor Form","Rock","Flying",440,60,60,100,60,100,60,7,FALSE
+774,"Minor Core Form","Rock","Flying",500,60,100,60,100,60,120,7,FALSE
 775,"Komala","Normal",NA,480,65,115,65,75,95,65,7,FALSE
 776,"Turtonator","Fire","Dragon",485,60,78,135,91,85,36,7,FALSE
 777,"Togedemaru","Electric","Steel",435,65,98,63,40,73,96,7,FALSE
@@ -83,8 +83,8 @@
 798,"Kartana","Grass","Steel",570,59,181,131,59,31,109,7,FALSE
 799,"Guzzlord","Dark","Dragon",570,223,101,53,97,53,43,7,FALSE
 800,"Necrozma","Psychic",NA,600,97,107,101,127,89,79,7,TRUE
-800,"NecrozmaDusk Mane","Psychic","Steel",680,97,157,127,113,109,77,7,TRUE
-800,"NecrozmaDawn Wings","Psychic","Ghost",680,97,113,109,157,127,77,7,TRUE
+800,"Necrozma Dusk Mane","Psychic","Steel",680,97,157,127,113,109,77,7,TRUE
+800,"Necrozma Dawn Wings","Psychic","Ghost",680,97,113,109,157,127,77,7,TRUE
 800,"NecrozmaUltra","Psychic","Dragon",754,97,167,97,167,97,129,7,TRUE
 801,"Magearna","Steel","Fairy",600,80,95,115,130,115,65,7,FALSE
 802,"Marshadow","Fighting","Ghost",600,90,125,80,90,90,125,7,FALSE
