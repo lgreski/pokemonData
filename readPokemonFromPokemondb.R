@@ -27,4 +27,16 @@ thePokemon <- do.call(rbind,pokemonList)
 types <- strsplit(gsub('[a-z]\\K(?=[A-Z])', ' ',thePokemon$Type, perl=T)," ")
 thePokemon$Type1 <- unlist(lapply(types,function(x) x[1]))
 thePokemon$Type2 <- unlist(lapply(types,function(x) ifelse(is.na(x[2])," ",x[2])))
-pokemonNames <- strsplit(gsub('[a-z]\\K(?=[A-Z])', '--', pokemonList[[8]][[2]], perl=T),"--")
+pokemonNames <- strsplit(gsub('[a-z]\\K(?=[A-Z])', '--', thePokemon$Name, perl=T),"--")
+thePokemon$Name <- unlist(lapply(pokemonNames,function(x) x[1]))
+thePokemon$Form <- unlist(lapply(pokemonNames,function(x) ifelse(is.na(x[2])," ",x[2])))
+
+# reorder columns & remove special characters from male & female Nidoran 
+thePokemon <- thePokemon[,c(1,2,14,12,13,4,5,6,7,8,9,10,11)]
+thePokemon[29,"Name"] <- "Nidoran"
+thePokemon[29,"Form"] <- "Female"
+thePokemon[32,"Name"] <- "Nidoran"
+thePokemon[32,"Form"] <- "Male"
+
+# write as CSV file
+write.csv(thePokemon,file="Pokemon.csv",row.names=FALSE)
