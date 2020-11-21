@@ -1,1 +1,132 @@
-"ID","Name","Form","Type1","Type2","Total","HP","Attack","Defense","Sp. Atk","Sp. Def","Speed","generation"
+"ID","Name","Form","Type1","Type2","Total","HP","Attack","Defense","Sp. Atk","Sp. Def","Speed","Generation"
+3,"Venusaur","Mega Venusaur","Grass","Poison",625,80,100,123,122,120,80,6
+6,"Charizard","Mega Charizard X","Fire","Dragon",634,78,130,111,130,85,100,6
+6,"Charizard","Mega Charizard Y","Fire","Flying",634,78,104,78,159,115,100,6
+9,"Blastoise","Mega Blastoise","Water"," ",630,79,103,120,135,115,78,6
+15,"Beedrill","Mega Beedrill","Bug","Poison",495,65,150,40,15,80,145,6
+18,"Pidgeot","Mega Pidgeot","Normal","Flying",579,83,80,80,135,80,121,6
+65,"Alakazam","Mega Alakazam","Psychic"," ",600,55,50,65,175,105,150,6
+80,"Slowbro","Mega Slowbro","Water","Psychic",590,95,75,180,130,80,30,6
+94,"Gengar","Mega Gengar","Ghost","Poison",600,60,65,80,170,95,130,6
+115,"Kangaskhan","Mega Kangaskhan","Normal"," ",590,105,125,100,60,100,100,6
+127,"Pinsir","Mega Pinsir","Bug","Flying",600,65,155,120,65,90,105,6
+130,"Gyarados","Mega Gyarados","Water","Dark",640,95,155,109,70,130,81,6
+142,"Aerodactyl","Mega Aerodactyl","Rock","Flying",615,80,135,85,70,95,150,6
+150,"Mewtwo","Mega Mewtwo X","Psychic","Fighting",780,106,190,100,154,100,130,6
+150,"Mewtwo","Mega Mewtwo Y","Psychic"," ",780,106,150,70,194,120,140,6
+181,"Ampharos","Mega Ampharos","Electric","Dragon",610,90,95,105,165,110,45,6
+208,"Steelix","Mega Steelix","Steel","Ground",610,75,125,230,55,95,30,6
+212,"Scizor","Mega Scizor","Bug","Steel",600,70,150,140,65,100,75,6
+214,"Heracross","Mega Heracross","Bug","Fighting",600,80,185,115,40,105,75,6
+229,"Houndoom","Mega Houndoom","Dark","Fire",600,75,90,90,140,90,115,6
+248,"Tyranitar","Mega Tyranitar","Rock","Dark",700,100,164,150,95,120,71,6
+254,"Sceptile","Mega Sceptile","Grass","Dragon",630,70,110,75,145,85,145,6
+257,"Blaziken","Mega Blaziken","Fire","Fighting",630,80,160,80,130,80,100,6
+260,"Swampert","Mega Swampert","Water","Ground",635,100,150,110,95,110,70,6
+282,"Gardevoir","Mega Gardevoir","Psychic","Fairy",618,68,85,65,165,135,100,6
+302,"Sableye","Mega Sableye","Dark","Ghost",480,50,85,125,85,115,20,6
+303,"Mawile","Mega Mawile","Steel","Fairy",480,50,105,125,55,95,50,6
+306,"Aggron","Mega Aggron","Steel"," ",630,70,140,230,60,80,50,6
+308,"Medicham","Mega Medicham","Fighting","Psychic",510,60,100,85,80,85,100,6
+310,"Manectric","Mega Manectric","Electric"," ",575,70,75,80,135,80,135,6
+319,"Sharpedo","Mega Sharpedo","Water","Dark",560,70,140,70,110,65,105,6
+323,"Camerupt","Mega Camerupt","Fire","Ground",560,70,120,100,145,105,20,6
+334,"Altaria","Mega Altaria","Dragon","Fairy",590,75,110,110,110,105,80,6
+354,"Banette","Mega Banette","Ghost"," ",555,64,165,75,93,83,75,6
+359,"Absol","Mega Absol","Dark"," ",565,65,150,60,115,60,115,6
+362,"Glalie","Mega Glalie","Ice"," ",580,80,120,80,120,80,100,6
+373,"Salamence","Mega Salamence","Dragon","Flying",700,95,145,130,120,90,120,6
+376,"Metagross","Mega Metagross","Steel","Psychic",700,80,145,150,105,110,110,6
+380,"Latias","Mega Latias","Dragon","Psychic",700,80,100,120,140,150,110,6
+381,"Latios","Mega Latios","Dragon","Psychic",700,80,130,100,160,120,110,6
+382,"Kyogre","Primal Kyogre","Water"," ",770,100,150,90,180,160,90,6
+383,"Groudon","Primal Groudon","Ground","Fire",770,100,180,160,150,90,90,6
+384,"Rayquaza","Mega Rayquaza","Dragon","Flying",780,105,180,100,180,100,115,6
+428,"Lopunny","Mega Lopunny","Normal","Fighting",580,65,136,94,54,96,135,6
+445,"Garchomp","Mega Garchomp","Dragon","Ground",700,108,170,115,120,95,92,6
+448,"Lucario","Mega Lucario","Fighting","Steel",625,70,145,88,140,70,112,6
+460,"Abomasnow","Mega Abomasnow","Grass","Ice",594,90,132,105,132,105,30,6
+475,"Gallade","Mega Gallade","Psychic","Fighting",618,68,165,95,65,115,110,6
+531,"Audino","Mega Audino","Normal","Fairy",545,103,60,126,80,126,50,6
+650,"Chespin"," ","Grass"," ",313,56,61,65,48,45,38,6
+651,"Quilladin"," ","Grass"," ",405,61,78,95,56,58,57,6
+652,"Chesnaught"," ","Grass","Fighting",530,88,107,122,74,75,64,6
+653,"Fennekin"," ","Fire"," ",307,40,45,40,62,60,60,6
+654,"Braixen"," ","Fire"," ",409,59,59,58,90,70,73,6
+655,"Delphox"," ","Fire","Psychic",534,75,69,72,114,100,104,6
+656,"Froakie"," ","Water"," ",314,41,56,40,62,44,71,6
+657,"Frogadier"," ","Water"," ",405,54,63,52,83,56,97,6
+658,"Greninja"," ","Water","Dark",530,72,95,67,103,71,122,6
+659,"Bunnelby"," ","Normal"," ",237,38,36,38,32,36,57,6
+660,"Diggersby"," ","Normal","Ground",423,85,56,77,50,77,78,6
+661,"Fletchling"," ","Normal","Flying",278,45,50,43,40,38,62,6
+662,"Fletchinder"," ","Fire","Flying",382,62,73,55,56,52,84,6
+663,"Talonflame"," ","Fire","Flying",499,78,81,71,74,69,126,6
+664,"Scatterbug"," ","Bug"," ",200,38,35,40,27,25,35,6
+665,"Spewpa"," ","Bug"," ",213,45,22,60,27,30,29,6
+666,"Vivillon"," ","Bug","Flying",411,80,52,50,90,50,89,6
+667,"Litleo"," ","Fire","Normal",369,62,50,58,73,54,72,6
+668,"Pyroar"," ","Fire","Normal",507,86,68,72,109,66,106,6
+669,"Flabébé"," ","Fairy"," ",303,44,38,39,61,79,42,6
+670,"Floette"," ","Fairy"," ",371,54,45,47,75,98,52,6
+671,"Florges"," ","Fairy"," ",552,78,65,68,112,154,75,6
+672,"Skiddo"," ","Grass"," ",350,66,65,48,62,57,52,6
+673,"Gogoat"," ","Grass"," ",531,123,100,62,97,81,68,6
+674,"Pancham"," ","Fighting"," ",348,67,82,62,46,48,43,6
+675,"Pangoro"," ","Fighting","Dark",495,95,124,78,69,71,58,6
+676,"Furfrou"," ","Normal"," ",472,75,80,60,65,90,102,6
+677,"Espurr"," ","Psychic"," ",355,62,48,54,63,60,68,6
+678,"Meowstic","Male","Psychic"," ",466,74,48,76,83,81,104,6
+678,"Meowstic","Female","Psychic"," ",466,74,48,76,83,81,104,6
+679,"Honedge"," ","Steel","Ghost",325,45,80,100,35,37,28,6
+680,"Doublade"," ","Steel","Ghost",448,59,110,150,45,49,35,6
+681,"Aegislash","Shield Forme","Steel","Ghost",500,60,50,140,50,140,60,6
+681,"Aegislash","Blade Forme","Steel","Ghost",500,60,140,50,140,50,60,6
+682,"Spritzee"," ","Fairy"," ",341,78,52,60,63,65,23,6
+683,"Aromatisse"," ","Fairy"," ",462,101,72,72,99,89,29,6
+684,"Swirlix"," ","Fairy"," ",341,62,48,66,59,57,49,6
+685,"Slurpuff"," ","Fairy"," ",480,82,80,86,85,75,72,6
+686,"Inkay"," ","Dark","Psychic",288,53,54,53,37,46,45,6
+687,"Malamar"," ","Dark","Psychic",482,86,92,88,68,75,73,6
+688,"Binacle"," ","Rock","Water",306,42,52,67,39,56,50,6
+689,"Barbaracle"," ","Rock","Water",500,72,105,115,54,86,68,6
+690,"Skrelp"," ","Poison","Water",320,50,60,60,60,60,30,6
+691,"Dragalge"," ","Poison","Dragon",494,65,75,90,97,123,44,6
+692,"Clauncher"," ","Water"," ",330,50,53,62,58,63,44,6
+693,"Clawitzer"," ","Water"," ",500,71,73,88,120,89,59,6
+694,"Helioptile"," ","Electric","Normal",289,44,38,33,61,43,70,6
+695,"Heliolisk"," ","Electric","Normal",481,62,55,52,109,94,109,6
+696,"Tyrunt"," ","Rock","Dragon",362,58,89,77,45,45,48,6
+697,"Tyrantrum"," ","Rock","Dragon",521,82,121,119,69,59,71,6
+698,"Amaura"," ","Rock","Ice",362,77,59,50,67,63,46,6
+699,"Aurorus"," ","Rock","Ice",521,123,77,72,99,92,58,6
+700,"Sylveon"," ","Fairy"," ",525,95,65,65,110,130,60,6
+701,"Hawlucha"," ","Fighting","Flying",500,78,92,75,74,63,118,6
+702,"Dedenne"," ","Electric","Fairy",431,67,58,57,81,67,101,6
+703,"Carbink"," ","Rock","Fairy",500,50,50,150,50,150,50,6
+704,"Goomy"," ","Dragon"," ",300,45,50,35,55,75,40,6
+705,"Sliggoo"," ","Dragon"," ",452,68,75,53,83,113,60,6
+706,"Goodra"," ","Dragon"," ",600,90,100,70,110,150,80,6
+707,"Klefki"," ","Steel","Fairy",470,57,80,91,80,87,75,6
+708,"Phantump"," ","Ghost","Grass",309,43,70,48,50,60,38,6
+709,"Trevenant"," ","Ghost","Grass",474,85,110,76,65,82,56,6
+710,"Pumpkaboo","Average Size","Ghost","Grass",335,49,66,70,44,55,51,6
+710,"Pumpkaboo","Small Size","Ghost","Grass",335,44,66,70,44,55,56,6
+710,"Pumpkaboo","Large Size","Ghost","Grass",335,54,66,70,44,55,46,6
+710,"Pumpkaboo","Super Size","Ghost","Grass",335,59,66,70,44,55,41,6
+711,"Gourgeist","Average Size","Ghost","Grass",494,65,90,122,58,75,84,6
+711,"Gourgeist","Small Size","Ghost","Grass",494,55,85,122,58,75,99,6
+711,"Gourgeist","Large Size","Ghost","Grass",494,75,95,122,58,75,69,6
+711,"Gourgeist","Super Size","Ghost","Grass",494,85,100,122,58,75,54,6
+712,"Bergmite"," ","Ice"," ",304,55,69,85,32,35,28,6
+713,"Avalugg"," ","Ice"," ",514,95,117,184,44,46,28,6
+714,"Noibat"," ","Flying","Dragon",245,40,30,35,45,40,55,6
+715,"Noivern"," ","Flying","Dragon",535,85,70,80,97,80,123,6
+716,"Xerneas"," ","Fairy"," ",680,126,131,95,131,98,99,6
+717,"Yveltal"," ","Dark","Flying",680,126,131,95,131,98,99,6
+718,"Zygarde50% Forme"," ","Dragon","Ground",600,108,100,121,81,95,95,6
+719,"Diancie"," ","Rock","Fairy",600,50,100,150,100,150,50,6
+719,"Diancie","Mega Diancie","Rock","Fairy",700,50,160,110,160,110,110,6
+720,"Hoopa","Hoopa Confined","Psychic","Ghost",600,80,110,60,150,130,70,6
+720,"Hoopa","Hoopa Unbound","Psychic","Dark",680,80,160,60,170,130,80,6
+721,"Volcanion"," ","Fire","Water",600,80,110,120,130,90,70,6
