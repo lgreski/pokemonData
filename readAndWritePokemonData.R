@@ -31,4 +31,5 @@ lapply(generations,function(x){
 fileList <- unlist(lapply(generations,function(x){
   sprintf("gen%02d.csv",x)
 }))
+if(file.exists("PokemonData.zip")) file.remove("PokemonData.zip")
 zip("PokemonData.zip",fileList)
