@@ -14,7 +14,7 @@ pokemonList <- lapply(pages,function(x){
   data <- html_table(html,header=TRUE)[[1]]
   colnames(data)[1] <- "ID"
   # add generation ID and return 
-  data$generation <- x
+  data$Generation <- x
   data
 })
 names(pokemonList) <- paste0("gen",pages)
@@ -40,3 +40,23 @@ thePokemon[32,"Form"] <- "Male"
 
 # write as CSV file
 write.csv(thePokemon,file="Pokemon.csv",row.names=FALSE)
+
+# write as XLSX file
+library(writexl)
+write_xlsx(thePokemon,"Pokemon.xlsx")
+
+# extract & write individual csv files from single Pokemon file
+generations <- 1:8
+lapply(generations,function(x){
+  data <- thePokemon[thePokemon$Generation == x,]
+  write.csv(data,
+            sprintf("gen%02d.csv",x),
+            row.names=FALSE)
+})
+
+# create zip file
+fileList <- unlist(lapply(generations,function(x){
+  sprintf("gen%02d.csv",x)
+}))
+if(file.exists("PokemonData.zip")) file.remove("PokemonData.zip")
+zip("PokemonData.zip",fileList)
