@@ -20,3 +20,11 @@ pokemonList <- lapply(pages,function(x){
 names(pokemonList) <- paste0("gen",pages)
 
 thePokemon <- do.call(rbind,pokemonList)
+
+# now clean up the names and types 
+# h/t https://stackoverflow.com/questions/36778221/breaking-up-pascalcase-in-r/36778559#36778559
+
+types <- strsplit(gsub('[a-z]\\K(?=[A-Z])', ' ',thePokemon$Type, perl=T)," ")
+thePokemon$Type1 <- unlist(lapply(types,function(x) x[1]))
+thePokemon$Type2 <- unlist(lapply(types,function(x) ifelse(is.na(x[2])," ",x[2])))
+pokemonNames <- strsplit(gsub('[a-z]\\K(?=[A-Z])', '--', pokemonList[[8]][[2]], perl=T),"--")
