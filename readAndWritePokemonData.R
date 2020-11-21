@@ -4,6 +4,11 @@ library(readxl)
 thePokemon <- read_xlsx("Pokemon.xlsx")
 write.csv(thePokemon,file="Pokemon.csv",row.names=FALSE)
 
+# starting with Pokemon.csv instead of xlsx
+thePokemon <- read.csv("Pokemon.csv")
+library(writexl)
+write_xlsx(thePokemon,"Pokemon.xlsx")
+
 # build single spreadsheet from genXX.csv files
 thePokemon <- do.call(rbind,lapply(1:8,function(x){
   read.csv(sprintf("gen%02d.csv",x))
@@ -13,7 +18,7 @@ thePokemon <- do.call(rbind,lapply(1:8,function(x){
 write.csv(thePokemon,file="Pokemon.csv",row.names=FALSE)
 
 
-# extract & write files
+# extract & write individual csv files from single Pokemon file
 generations <- 1:8
 lapply(generations,function(x){
   data <- thePokemon[thePokemon$Generation == x,]
