@@ -2,7 +2,7 @@
 
 ## December 2021 Update
 
-As of December 14, 2021, no Pokémon have been added to the Pokédex beyond #898, Calyrex. If the January 28, 2022 release of *Pokémon Legends Arceux* contains additions to the National Pokédex, we'll update this repository to include the new Pokémon. 
+As of December 14, 2021, no Pokémon have been added to the Pokédex beyond #898, Calyrex. If the January 28, 2022 release of *Pokémon Legends Arceus* contains additions to the National Pokédex, we'll update this repository to include the new Pokémon. 
 
 ## November 2021 Update
 
