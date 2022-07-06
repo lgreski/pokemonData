@@ -2,7 +2,7 @@
 
 ## July 2022 Update
 
-With the release of *Pokémon Legends: Arceus*, Pokémon 899 through 905 have been added to the Pokédex. These Pokémon are included in the gen08.csv file, as well as the full Pokémon.csv and Pokémon.xlsx files. Galarian and Hisuian forms of older gneration Pokémon are also included in the gen08.csv file. 
+With the release of *Pokémon Legends: Arceus*, Pokémon 899 through 905 have been added to the Pokédex. These Pokémon are included in the gen08.csv file, as well as the full Pokémon.csv and Pokémon.xlsx files. Galarian and Hisuian forms of older generation Pokémon are also included in the gen08.csv file. 
 
 ## December 2021 Update
 
