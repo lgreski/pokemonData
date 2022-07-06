@@ -24,7 +24,9 @@
 409,"Rampardos"," ","Rock"," ",495,97,165,60,65,50,58,4
 410,"Shieldon"," ","Rock","Steel",350,30,42,118,42,88,30,4
 411,"Bastiodon"," ","Rock","Steel",495,60,52,168,47,138,30,4
-412,"Burmy"," ","Bug"," ",224,40,29,45,29,45,36,4
+412,"Burmy","Plant Cloak","Bug"," ",224,40,29,45,29,45,36,4
+412,"Burmy","Sandy Cloak","Bug"," ",224,40,29,45,29,45,36,4
+412,"Burmy","Trash Cloak","Bug"," ",224,40,29,45,29,45,36,4
 413,"Wormadam","Plant Cloak","Bug","Grass",424,60,59,85,79,105,36,4
 413,"Wormadam","Sandy Cloak","Bug","Ground",424,60,79,105,59,85,36,4
 413,"Wormadam","Trash Cloak","Bug","Steel",424,60,69,95,69,95,36,4

@@ -1,5 +1,9 @@
 # pokemonData
 
+## July 2022 Update
+
+With the release of *Pokémon Legends Arceus*, Pokémon 899 through 905 have been added to the Pokédex. These Pokémon are included in the gen08.csv file, as well as the full Pokémon.csv and Pokémon.xlsx files. Galarian and Hisuian forms of older gneration Pokémon are also included in the gen08.csv file. 
+
 ## December 2021 Update
 
 As of December 14, 2021, no Pokémon have been added to the Pokédex beyond #898, Calyrex. If the January 28, 2022 release of *Pokémon Legends Arceus* contains additions to the National Pokédex, we'll update this repository to include the new Pokémon. 
