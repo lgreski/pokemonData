@@ -1,5 +1,10 @@
 # pokemonData
 
+## March 2023 Update
+
+With the February 2023 update of *Pokémon Scarlet* and *Pokémon  Violet* Pokémon national Pokédex numbers changed relative to the numbers assigned in the November 2022 release. Stats changes were applied to gen04, gen08 Pokémon.  The data files (zip, xlsx, and csv) now reflect the February updates. 
+
+
 ## November 2022 Update
 
 With the release of *Pokémon Scarlet* and *Pokémon  Violet* Pokemon 906 through 1010 have been added to the Pokédex. These Pokémon are included in the gen09.csv file, as well as the full Pokémon.csv and Pokémon.xlsx files. Paldean forms of Taurus and Wooper are also included in the gen09.csv file. 

@@ -1,7 +1,7 @@
 "ID","Name","Form","Type1","Type2","Total","HP","Attack","Defense","Sp. Atk","Sp. Def","Speed","Generation"
-128,"Tauros","Paldean Tauros","Fighting"," ",490,75,110,105,30,70,100,9
-128,"Tauros","Paldean Fire Tauros","Fighting","Fire",490,75,110,105,30,70,100,9
-128,"Tauros","Paldean Water Tauros","Fighting","Water",490,75,110,105,30,70,100,9
+128,"Tauros","Combat Breed","Fighting"," ",490,75,110,105,30,70,100,9
+128,"Tauros","Blaze Breed","Fighting","Fire",490,75,110,105,30,70,100,9
+128,"Tauros","Aqua Breed","Fighting","Water",490,75,110,105,30,70,100,9
 194,"Wooper","Paldean Wooper","Poison","Ground",210,55,45,45,25,25,15,9
 906,"Sprigatito"," ","Grass"," ",310,40,61,54,45,45,65,9
 907,"Floragato"," ","Grass"," ",410,61,80,63,60,63,83,9
@@ -15,102 +15,106 @@
 915,"Lechonk"," ","Normal"," ",254,54,45,40,35,45,35,9
 916,"Oinkologne","Male","Normal"," ",489,110,100,75,59,80,65,9
 916,"Oinkologne","Female","Normal"," ",489,115,90,70,59,90,65,9
-917,"Dudunsparce","Two-Segment Form","Normal"," ",520,125,100,80,85,75,55,9
-917,"Dudunsparce","Three-Segment Form","Normal"," ",520,125,100,80,85,75,55,9
-918,"Tarountula"," ","Bug"," ",210,35,41,45,29,40,20,9
-919,"Spidops"," ","Bug"," ",404,60,79,92,52,86,35,9
-920,"Nymble"," ","Bug"," ",210,33,46,40,21,25,45,9
-921,"Lokix"," ","Bug","Dark",450,71,102,78,52,55,92,9
-922,"Rellor"," ","Bug"," ",270,41,50,60,31,58,30,9
-923,"Rabsca"," ","Bug","Psychic",470,75,50,85,115,100,45,9
-924,"Greavard"," ","Ghost"," ",290,50,61,60,30,55,34,9
-925,"Houndstone"," ","Ghost"," ",488,72,101,100,50,97,68,9
-926,"Flittle"," ","Psychic"," ",255,30,35,30,55,30,75,9
-927,"Espathra"," ","Psychic"," ",481,95,60,60,101,60,105,9
-928,"Farigiraf"," ","Normal","Psychic",520,120,90,70,110,70,60,9
-929,"Wiglett"," ","Water"," ",245,10,55,25,35,25,95,9
-930,"Wugtrio"," ","Water"," ",425,35,100,50,50,70,120,9
-931,"Dondozo"," ","Water"," ",530,150,100,115,65,65,35,9
-932,"Veluza"," ","Water","Psychic",478,90,102,73,78,65,70,9
-933,"Finizen"," ","Water"," ",315,70,45,40,45,40,75,9
-934,"Palafin","Zero Form","Water"," ",457,100,70,72,53,62,100,9
-934,"Palafin","Hero Form","Water"," ",650,100,160,97,106,87,100,9
-935,"Smoliv"," ","Grass","Normal",260,41,35,45,58,51,30,9
-936,"Dolliv"," ","Grass","Normal",354,52,53,60,78,78,33,9
-937,"Arboliva"," ","Grass","Normal",510,78,69,90,125,109,39,9
-938,"Capsakid"," ","Grass"," ",304,50,62,40,62,40,50,9
-939,"Scovillain"," ","Grass","Fire",486,65,108,65,108,65,75,9
-940,"Tadbulb"," ","Electric"," ",272,61,31,41,59,35,45,9
-941,"Bellibolt"," ","Electric"," ",495,109,64,91,103,83,45,9
-942,"Varoom"," ","Steel","Poison",300,45,70,63,30,45,47,9
-943,"Revavroom"," ","Steel","Poison",500,80,119,90,54,67,90,9
-944,"Orthworm"," ","Steel"," ",480,70,85,145,60,55,65,9
-945,"Tandemaus"," ","Normal"," ",305,50,50,45,40,45,75,9
-946,"Maushold","Family of Three","Normal"," ",470,74,75,70,65,75,111,9
-946,"Maushold","Family of Four","Normal"," ",470,74,75,70,65,75,111,9
-947,"Cetoddle"," ","Ice"," ",334,108,68,45,30,40,43,9
-948,"Cetitan"," ","Ice"," ",521,170,113,65,45,55,73,9
-949,"Frigibax"," ","Dragon","Ice",320,65,75,45,35,45,55,9
-950,"Arctibax"," ","Dragon","Ice",423,90,95,66,45,65,62,9
-951,"Baxcalibur"," ","Dragon","Ice",600,115,145,92,75,86,87,9
-952,"Tatsugiri"," ","Dragon","Water",475,68,50,60,120,95,82,9
-953,"Cyclizar"," ","Dragon","Normal",501,70,95,65,85,65,121,9
-954,"Pawmi"," ","Electric"," ",240,45,50,20,40,25,60,9
-955,"Pawmo"," ","Electric","Fighting",350,60,75,40,50,40,85,9
-956,"Pawmot"," ","Electric","Fighting",490,70,115,70,70,60,105,9
-957,"Wattrel"," ","Electric","Flying",280,40,40,35,55,40,70,9
-958,"Kilowattrel"," ","Electric","Flying",490,70,70,60,105,60,125,9
-959,"Bombirdier"," ","Flying","Dark",485,70,103,85,60,85,82,9
-960,"Squawkabilly","White Plumage","Normal","Flying",417,82,96,51,45,51,92,9
-960,"Squawkabilly","Yellow Plumage","Normal","Flying",417,82,96,51,45,51,92,9
-960,"Squawkabilly","Green Plumage","Normal","Flying",417,82,96,51,45,51,92,9
-960,"Squawkabilly","Blue Plumage","Normal","Flying",417,82,96,51,45,51,92,9
-961,"Flamigo"," ","Flying","Fighting",500,82,115,74,75,64,90,9
-962,"Klawf"," ","Rock"," ",450,70,100,115,35,55,75,9
-963,"Nacli"," ","Rock"," ",280,55,55,75,35,35,25,9
-964,"Naclstack"," ","Rock"," ",355,60,60,100,35,65,35,9
-965,"Garganacl"," ","Rock"," ",500,100,100,130,45,90,35,9
-966,"Glimmet"," ","Rock","Poison",350,48,35,42,105,60,60,9
-967,"Glimmora"," ","Rock","Poison",525,83,55,90,130,81,86,9
-968,"Shroodle"," ","Poison","Normal",290,40,65,35,40,35,75,9
-969,"Grafaiai"," ","Poison","Normal",485,63,95,65,80,72,110,9
-970,"Fidough"," ","Fairy"," ",312,37,55,70,30,55,65,9
-971,"Dachsbun"," ","Fairy"," ",477,57,80,115,50,80,95,9
-972,"Maschiff"," ","Dark"," ",340,60,78,60,40,51,51,9
-973,"Mabosstiff"," ","Dark"," ",505,80,120,90,60,70,85,9
-974,"Bramblin"," ","Grass","Ghost",275,40,65,30,45,35,60,9
-975,"Brambleghast"," ","Grass","Ghost",480,55,115,70,80,70,90,9
-976,"Gimmighoul","Chest Form","Ghost"," ",300,45,30,70,75,70,10,9
-976,"Gimmighoul","Roaming Form","Ghost"," ",300,45,30,25,75,45,80,9
-977,"Gholdengo"," ","Steel","Ghost",550,87,60,95,133,91,84,9
-978,"Great Tusk"," ","Ground","Fighting",570,115,131,131,53,53,87,9
-979,"Brute Bonnet"," ","Grass","Dark",570,111,127,99,79,99,55,9
-981,"Sandy Shocks"," ","Electric","Ground",570,85,81,97,121,85,101,9
-982,"Scream Tail"," ","Fairy","Psychic",570,115,65,99,65,115,111,9
-983,"Flutter Mane"," ","Ghost","Fairy",570,55,55,55,135,135,135,9
-984,"Slither Wing"," ","Bug","Fighting",570,85,135,79,85,105,81,9
-985,"Roaring Moon"," ","Dragon","Dark",590,105,139,71,55,101,119,9
-986,"Iron Treads"," ","Ground","Steel",570,90,112,120,72,70,106,9
-988,"Iron Moth"," ","Fire","Poison",570,80,70,60,140,110,110,9
-989,"Iron Hands"," ","Fighting","Electric",570,154,140,108,50,68,50,9
-990,"Iron Jugulis"," ","Dark","Flying",570,94,80,86,122,80,108,9
-991,"Iron Thorns"," ","Rock","Electric",570,100,134,110,70,84,72,9
-992,"Iron Bundle"," ","Ice","Water",570,56,80,114,124,60,136,9
-993,"Iron Valiant"," ","Fairy","Fighting",590,74,130,90,120,60,116,9
-994,"Ting-Lu"," ","Dark","Ground",570,155,110,125,55,80,45,9
-995,"Chien-Pao"," ","Dark","Ice",570,80,120,80,90,65,135,9
-996,"Wo-Chien"," ","Dark","Grass",570,85,85,100,95,135,70,9
-997,"Chi-Yu"," ","Dark","Fire",570,55,80,80,135,120,100,9
-998,"Koraidon"," ","Fighting","Dragon",670,100,135,115,85,100,135,9
-999,"Miraidon"," ","Electric","Dragon",670,100,85,100,135,115,135,9
-1000,"Tinkatink"," ","Fairy","Steel",297,50,45,45,35,64,58,9
-1001,"Tinkatuff"," ","Fairy","Steel",380,65,55,55,45,82,78,9
-1002,"Tinkaton"," ","Fairy","Steel",506,85,75,77,70,105,94,9
-1003,"Charcadet"," ","Fire"," ",255,40,50,40,50,40,35,9
-1004,"Armarouge"," ","Fire","Psychic",525,85,60,100,125,80,75,9
-1005,"Ceruledge"," ","Fire","Ghost",525,75,125,80,60,100,85,9
-1006,"Toedscool"," ","Ground","Grass",335,40,40,35,50,100,70,9
-1007,"Toedscruel"," ","Ground","Grass",515,80,70,65,80,120,100,9
-1008,"Kingambit"," ","Dark","Steel",550,100,135,120,60,85,50,9
-1009,"Clodsire"," ","Poison","Ground",430,130,75,60,45,100,20,9
-1010,"Annihilape"," ","Fighting","Ghost",535,110,115,80,50,90,90,9
+917,"Tarountula"," ","Bug"," ",210,35,41,45,29,40,20,9
+918,"Spidops"," ","Bug"," ",404,60,79,92,52,86,35,9
+919,"Nymble"," ","Bug"," ",210,33,46,40,21,25,45,9
+920,"Lokix"," ","Bug","Dark",450,71,102,78,52,55,92,9
+921,"Pawmi"," ","Electric"," ",240,45,50,20,40,25,60,9
+922,"Pawmo"," ","Electric","Fighting",350,60,75,40,50,40,85,9
+923,"Pawmot"," ","Electric","Fighting",490,70,115,70,70,60,105,9
+924,"Tandemaus"," ","Normal"," ",305,50,50,45,40,45,75,9
+925,"Maushold","Family of Four","Normal"," ",470,74,75,70,65,75,111,9
+925,"Maushold","Family of Three","Normal"," ",470,74,75,70,65,75,111,9
+926,"Fidough"," ","Fairy"," ",312,37,55,70,30,55,65,9
+927,"Dachsbun"," ","Fairy"," ",477,57,80,115,50,80,95,9
+928,"Smoliv"," ","Grass","Normal",260,41,35,45,58,51,30,9
+929,"Dolliv"," ","Grass","Normal",354,52,53,60,78,78,33,9
+930,"Arboliva"," ","Grass","Normal",510,78,69,90,125,109,39,9
+931,"Squawkabilly","Green Plumage","Normal","Flying",417,82,96,51,45,51,92,9
+931,"Squawkabilly","Blue Plumage","Normal","Flying",417,82,96,51,45,51,92,9
+931,"Squawkabilly","Yellow Plumage","Normal","Flying",417,82,96,51,45,51,92,9
+931,"Squawkabilly","White Plumage","Normal","Flying",417,82,96,51,45,51,92,9
+932,"Nacli"," ","Rock"," ",280,55,55,75,35,35,25,9
+933,"Naclstack"," ","Rock"," ",355,60,60,100,35,65,35,9
+934,"Garganacl"," ","Rock"," ",500,100,100,130,45,90,35,9
+935,"Charcadet"," ","Fire"," ",255,40,50,40,50,40,35,9
+936,"Armarouge"," ","Fire","Psychic",525,85,60,100,125,80,75,9
+937,"Ceruledge"," ","Fire","Ghost",525,75,125,80,60,100,85,9
+938,"Tadbulb"," ","Electric"," ",272,61,31,41,59,35,45,9
+939,"Bellibolt"," ","Electric"," ",495,109,64,91,103,83,45,9
+940,"Wattrel"," ","Electric","Flying",280,40,40,35,55,40,70,9
+941,"Kilowattrel"," ","Electric","Flying",490,70,70,60,105,60,125,9
+942,"Maschiff"," ","Dark"," ",340,60,78,60,40,51,51,9
+943,"Mabosstiff"," ","Dark"," ",505,80,120,90,60,70,85,9
+944,"Shroodle"," ","Poison","Normal",290,40,65,35,40,35,75,9
+945,"Grafaiai"," ","Poison","Normal",485,63,95,65,80,72,110,9
+946,"Bramblin"," ","Grass","Ghost",275,40,65,30,45,35,60,9
+947,"Brambleghast"," ","Grass","Ghost",480,55,115,70,80,70,90,9
+948,"Toedscool"," ","Ground","Grass",335,40,40,35,50,100,70,9
+949,"Toedscruel"," ","Ground","Grass",515,80,70,65,80,120,100,9
+950,"Klawf"," ","Rock"," ",450,70,100,115,35,55,75,9
+951,"Capsakid"," ","Grass"," ",304,50,62,40,62,40,50,9
+952,"Scovillain"," ","Grass","Fire",486,65,108,65,108,65,75,9
+953,"Rellor"," ","Bug"," ",270,41,50,60,31,58,30,9
+954,"Rabsca"," ","Bug","Psychic",470,75,50,85,115,100,45,9
+955,"Flittle"," ","Psychic"," ",255,30,35,30,55,30,75,9
+956,"Espathra"," ","Psychic"," ",481,95,60,60,101,60,105,9
+957,"Tinkatink"," ","Fairy","Steel",297,50,45,45,35,64,58,9
+958,"Tinkatuff"," ","Fairy","Steel",380,65,55,55,45,82,78,9
+959,"Tinkaton"," ","Fairy","Steel",506,85,75,77,70,105,94,9
+960,"Wiglett"," ","Water"," ",245,10,55,25,35,25,95,9
+961,"Wugtrio"," ","Water"," ",425,35,100,50,50,70,120,9
+962,"Bombirdier"," ","Flying","Dark",485,70,103,85,60,85,82,9
+963,"Finizen"," ","Water"," ",315,70,45,40,45,40,75,9
+964,"Palafin","Zero Form","Water"," ",457,100,70,72,53,62,100,9
+964,"Palafin","Hero Form","Water"," ",650,100,160,97,106,87,100,9
+965,"Varoom"," ","Steel","Poison",300,45,70,63,30,45,47,9
+966,"Revavroom"," ","Steel","Poison",500,80,119,90,54,67,90,9
+967,"Cyclizar"," ","Dragon","Normal",501,70,95,65,85,65,121,9
+968,"Orthworm"," ","Steel"," ",480,70,85,145,60,55,65,9
+969,"Glimmet"," ","Rock","Poison",350,48,35,42,105,60,60,9
+970,"Glimmora"," ","Rock","Poison",525,83,55,90,130,81,86,9
+971,"Greavard"," ","Ghost"," ",290,50,61,60,30,55,34,9
+972,"Houndstone"," ","Ghost"," ",488,72,101,100,50,97,68,9
+973,"Flamigo"," ","Flying","Fighting",500,82,115,74,75,64,90,9
+974,"Cetoddle"," ","Ice"," ",334,108,68,45,30,40,43,9
+975,"Cetitan"," ","Ice"," ",521,170,113,65,45,55,73,9
+976,"Veluza"," ","Water","Psychic",478,90,102,73,78,65,70,9
+977,"Dondozo"," ","Water"," ",530,150,100,115,65,65,35,9
+978,"Tatsugiri","Curly Form","Dragon","Water",475,68,50,60,120,95,82,9
+978,"Tatsugiri","Droopy Form","Dragon","Water",475,68,50,60,120,95,82,9
+978,"Tatsugiri","Stretchy Form","Dragon","Water",475,68,50,60,120,95,82,9
+979,"Annihilape"," ","Fighting","Ghost",535,110,115,80,50,90,90,9
+980,"Clodsire"," ","Poison","Ground",430,130,75,60,45,100,20,9
+981,"Farigiraf"," ","Normal","Psychic",520,120,90,70,110,70,60,9
+982,"Dudunsparce","Two-Segment Form","Normal"," ",520,125,100,80,85,75,55,9
+982,"Dudunsparce","Three-Segment Form","Normal"," ",520,125,100,80,85,75,55,9
+983,"Kingambit"," ","Dark","Steel",550,100,135,120,60,85,50,9
+984,"Great Tusk"," ","Ground","Fighting",570,115,131,131,53,53,87,9
+985,"Scream Tail"," ","Fairy","Psychic",570,115,65,99,65,115,111,9
+986,"Brute Bonnet"," ","Grass","Dark",570,111,127,99,79,99,55,9
+987,"Flutter Mane"," ","Ghost","Fairy",570,55,55,55,135,135,135,9
+988,"Slither Wing"," ","Bug","Fighting",570,85,135,79,85,105,81,9
+989,"Sandy Shocks"," ","Electric","Ground",570,85,81,97,121,85,101,9
+990,"Iron Treads"," ","Ground","Steel",570,90,112,120,72,70,106,9
+991,"Iron Bundle"," ","Ice","Water",570,56,80,114,124,60,136,9
+992,"Iron Hands"," ","Fighting","Electric",570,154,140,108,50,68,50,9
+993,"Iron Jugulis"," ","Dark","Flying",570,94,80,86,122,80,108,9
+994,"Iron Moth"," ","Fire","Poison",570,80,70,60,140,110,110,9
+995,"Iron Thorns"," ","Rock","Electric",570,100,134,110,70,84,72,9
+996,"Frigibax"," ","Dragon","Ice",320,65,75,45,35,45,55,9
+997,"Arctibax"," ","Dragon","Ice",423,90,95,66,45,65,62,9
+998,"Baxcalibur"," ","Dragon","Ice",600,115,145,92,75,86,87,9
+999,"Gimmighoul","Chest Form","Ghost"," ",300,45,30,70,75,70,10,9
+999,"Gimmighoul","Roaming Form","Ghost"," ",300,45,30,25,75,45,80,9
+1000,"Gholdengo"," ","Steel","Ghost",550,87,60,95,133,91,84,9
+1001,"Wo-Chien"," ","Dark","Grass",570,85,85,100,95,135,70,9
+1002,"Chien-Pao"," ","Dark","Ice",570,80,120,80,90,65,135,9
+1003,"Ting-Lu"," ","Dark","Ground",570,155,110,125,55,80,45,9
+1004,"Chi-Yu"," ","Dark","Fire",570,55,80,80,135,120,100,9
+1005,"Roaring Moon"," ","Dragon","Dark",590,105,139,71,55,101,119,9
+1006,"Iron Valiant"," ","Fairy","Fighting",590,74,130,90,120,60,116,9
+1007,"Koraidon"," ","Fighting","Dragon",670,100,135,115,85,100,135,9
+1008,"Miraidon"," ","Electric","Dragon",670,100,85,100,135,115,135,9
+1009,"Walking Wake"," ","Water","Dragon",590,99,83,91,125,83,109,9
+1010,"Iron Leaves"," ","Grass","Psychic",590,90,130,88,70,108,104,9
