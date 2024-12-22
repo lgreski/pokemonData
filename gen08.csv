@@ -31,7 +31,7 @@
 555,"Darmanitan","Galarian Zen Mode","Ice","Fire",540,105,160,55,30,55,135,8
 562,"Yamask","Galarian Yamask","Ground","Ghost",303,38,55,85,30,65,30,8
 570,"Zorua","Hisuian Zorua","Normal","Ghost",330,35,60,40,85,40,70,8
-571,"Zoroark","Hisuian Zoroark","Normal","Ghost",510,60,105,60,120,60,105,8
+571,"Zoroark","Hisuian Zoroark","Normal","Ghost",510,55,100,60,125,60,110,8
 618,"Stunfisk","Galarian Stunfisk","Ground","Steel",471,109,81,99,66,84,32,8
 628,"Braviary","Hisuian Braviary","Psychic","Flying",510,110,83,70,112,70,65,8
 705,"Sliggoo","Hisuian Sliggoo","Steel","Dragon",452,58,75,83,83,113,40,8
@@ -138,7 +138,7 @@
 898,"Calyrex","Ice Rider","Psychic","Ice",680,100,165,150,85,130,50,8
 898,"Calyrex","Shadow Rider","Psychic","Ghost",680,100,85,80,165,100,150,8
 899,"Wyrdeer"," ","Normal","Psychic",525,103,105,72,105,75,65,8
-900,"Kleavor"," ","Bug","Rock",500,70,130,95,45,75,85,8
+900,"Kleavor"," ","Bug","Rock",500,70,135,95,45,70,85,8
 901,"Ursaluna"," ","Ground","Normal",550,130,140,105,45,80,50,8
 902,"Basculegion","Male","Water","Ghost",530,120,112,65,80,75,78,8
 902,"Basculegion","Female","Water","Ghost",530,120,92,65,100,75,78,8

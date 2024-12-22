@@ -1,5 +1,9 @@
 # pokemonData
 
+## December 2024 Update
+
+Here is the latest run against the National Pokédex that brings the total number of Pokémon up to 1,025 from the 1,010 that had been discovered by the February 2023 release of of *Pokémon Scarlet* and *Pokémon  Violet*. It includes stat changes for Zoroark (571) and Kleavor (910) as well as 15 new Pokémon through Pecharunt (1025). 
+
 ## March 2023 Update
 
 With the February 2023 update of *Pokémon Scarlet* and *Pokémon  Violet* Pokémon national Pokédex numbers changed relative to the numbers assigned in the November 2022 release. Stats changes were applied to gen04, gen08 Pokémon.  The data files (zip, xlsx, and csv) now reflect the February updates. 
