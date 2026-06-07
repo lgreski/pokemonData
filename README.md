@@ -1,5 +1,9 @@
 # pokemonData
 
+## June 2026 Update
+
+Confirmed that Generation 9 is still the current generation of Pokémon, and that the National Pokédex still has a total of 1,025 Pokémon. 
+
 ## December 2024 Update
 
 Here is the latest run against the National Pokédex that brings the total number of Pokémon up to 1,025 from the 1,010 that had been discovered by the February 2023 release of of *Pokémon Scarlet* and *Pokémon  Violet*. It includes stat changes for Zoroark (571) and Kleavor (900) as well as 15 new Pokémon through Pecharunt (1025). 
